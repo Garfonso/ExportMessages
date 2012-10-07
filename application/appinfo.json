@@ -1,0 +1,10 @@
+{
+	"id": "info.mobo.exportmessages",
+	"version": "1.0.0",
+	"vendor": "Garfonso",
+	"type": "web",
+	"plug-ins": false,
+	"main": "index.html",
+	"title": "Export Messages",
+	"icon": "icon.png",
+}

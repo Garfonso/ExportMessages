@@ -1,0 +1,7 @@
+[
+{  "library": { "name": "foundations", "version": "1.0" }},
+{"source": "lib/serviceHelpers.js"},
+{
+  "source": "assistants/doExportAssitant.js"
+}
+]

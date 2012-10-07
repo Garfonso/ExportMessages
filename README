@@ -1,0 +1,34 @@
+This app exports all your messages from the messaging app (or better the internal database) to a text file with tabulator seperated fields for: 
+timestamp, human readable date and time, service (i.e. sms, gtalk,...), inbox/outbox, sender, recepients, message.
+
+This file is saved in the usb partition and can be send as attachement per E-Mail (from the app menu). 
+It should be easy to import that file to Excel. This way one can backup and/or export all the sms and also 
+IM messages from the device and keep them, even if webos goes down or the palm backup  server dies someday.
+
+IMPORTANT
+Currently you manually have to run
+
+luna-send -a com.palm.app.messaging -n 1 palm://com.palm.db/putPermissions '{"permissions": [{"type": "db.kind", "object": "com.palm.message:1", "caller": "info.mobo.exportmessages.service", "operations": {"read":"allow"}}, {"type": "db.kind", "object": "com.palm.message:1", "caller": "info.mobo.exportmessages.service", "operations": {"read": "allow"}}]}'
+
+from a root-terminal on the device. This is to set permissions so the service is allowed to read from the database!
+I will try to find a way to automate this step, but until now, I was not successful. :-(
+
+How-To:
+Just press "Do Export" and wait for the spinner to stop spinning and the message "All went well". 
+If you get a "Permission denied"-Error, please execute the command line from above.
+After that hook up the device to an USB port and copy the created file or use "Mail message" 
+from the app menu and e-mail the message to yourself.
+
+You can change the filename in the text editfield. But there is no real reason to do so. 
+
+If you select "Export only SMS" IM messages are ignored. If you run into trouble with the service lockign up,
+you can try that.
+
+If the service locks up, you'll have close the app and wait a minute or you can try "Reset service" from the app menu.
+
+Versionhistory:
+1.0 (2012-10-07)
+- initial release
+
+Pull requests are welcome! :)
+Released under MIT license.

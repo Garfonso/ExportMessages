@@ -1,0 +1,13 @@
+{
+  "id": "info.mobo.exportmessages",
+  "package_format_version": 2,
+  "loc_name": "Export Messages",
+  "version": "1.0.0",
+  "icon": "icon48.png",
+  "miniicon": "icon48.png",
+  "vendor": "Garfonso",
+  "title": "Export Messages",
+  "vendorurl": "http://webos.mobo.info",
+  "app": "info.mobo.exportmessages",
+  "services": ["info.mobo.exportmessages.service"]
+}

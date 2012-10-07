@@ -1,0 +1,11 @@
+[
+{ "source": "app/model/helper.js" },
+ 	{
+ 	  "source": "app/assistants/app-assistant.js"
+ 	},
+    {"source": "app/assistants/stage-assistant.js"},
+    {
+        "scenes": "welcome",
+        "source": "app/assistants/welcome-assistant.js"
+    }
+]
