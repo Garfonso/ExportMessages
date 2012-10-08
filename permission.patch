@@ -1,0 +1,20 @@
+diff -rc original/etc/palm/db/permissions/com.palm.message modified/etc/palm/db/permissions/com.palm.message
+*** original/etc/palm/db/permissions/com.palm.message	2011-03-21 23:55:00.000000000 +0100
+--- modified/etc/palm/db/permissions/com.palm.message	2012-10-08 20:50:05.981223510 +0200
+***************
+*** 8,13 ****
+--- 8,21 ----
+              "read": "allow"
+          }
+      },
++ 	{
++ 		"type": "db.kind",
++ 		"object": "com.palm.message:1",
++ 		"caller": "info.mobo.*",
++ 		"operations": {
++ 			"read": "allow"
++ 		}
++ 	},
+      {
+          "type": "db.kind",
+          "object": "com.palm.message:1",
