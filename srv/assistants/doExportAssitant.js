@@ -9,7 +9,7 @@ doExportAssitant.prototype.createHeadingLine = function () {
 };
 
 doExportAssitant.prototype.convertEntryToLine = function (e) {
-  var line = "", i;
+  var line = "", i, text;
   line += (e.timestamp || " ") + "\t";
   line += (new Date(e.timestamp * 1000) || " ") + "\t";
   line += (e.serviceName || " ") + "\t";
@@ -30,7 +30,12 @@ doExportAssitant.prototype.convertEntryToLine = function (e) {
     log("Unknown folder " + e.folder);
     line += "unknown\tunknown\t";
   }
-  line += e.messageText + "\r\n";
+  if (e.messageText) {
+    text = e.messageText.replace(/(\s)/gi," ");
+  } else {
+    text = "No text";
+  }
+  line += text + "\r\n";
   return line;
 };
 

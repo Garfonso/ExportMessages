@@ -1,0 +1,272 @@
+Timestamp	DateTime	ServiceName	Foldername	Sender	Recipients	Message
+1343399361	Fri Jul 27 2012 16:29:21 GMT+0200 (CEST)	sms	outbox	self	+4917621520721	Ist das Gewitter schon in Bonn angekommen? Und du willst gleich wirklich grillen? Ich liebe Dich. Achim
+1343399431	Fri Jul 27 2012 16:30:31 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Es ist nur dunkel momentan und wenn wir halt nicht draußen grillen, dann halt drinnen. Ich liebe dich! Bussi
+1343471954	Sat Jul 28 2012 12:39:14 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Terror. :( Dafür gibt's jetzt Mango und Avokado und Gewürze. So...
+1343497994	Sat Jul 28 2012 19:53:14 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Was für ne Dose wollte das Wusel?
+1343498135	Sat Jul 28 2012 19:55:35 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Das ist die weiße quadratische Ikea-Dose mit dem Deckel, der rot umrandet ist. Weißt du, welche ich meine oder soll ich dir ein Foto schicken?
+1343501586	Sat Jul 28 2012 20:53:06 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	von wem?
+1343501700	Sat Jul 28 2012 20:55:00 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Von der Dose natürlich, die haben wir nämlich nicht nur einmal! So ich bin jetzt gleich auch mit der Arbeit fertig und fix und alle. Ich leg mich gleich aufs Sofa zum runterkommen.
+1343502071	Sat Jul 28 2012 21:01:11 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Wer soll die dose haben du wusel?
+1343502145	Sat Jul 28 2012 21:02:25 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Der Kruse, die haben wir an seinem Geburtstag mit Tzaziki bei ihm gelassen.
+1343549198	Sun Jul 29 2012 10:06:38 GMT+0200 (CEST)	sms	outbox	self	+491606265208	Hallo, ich hab eine fiese Erkältung, deshalb bleib ich heute lieber im Bett. Viel Spaß und viele Grüße. Achim
+1343552770	Sun Jul 29 2012 11:06:10 GMT+0200 (CEST)	sms	inbox	+491606265208	self	Haben 2 plätze reserviert schade aber gute besserung schon dich bisschen lb gr ingr u georg
+1343552783	Sun Jul 29 2012 11:06:23 GMT+0200 (CEST)	sms	inbox	+491606265208	self	Haben 2 plätze reserviert schade aber gute besserung schon dich bisschen lb gr ingr u georg
+1343572732	Sun Jul 29 2012 16:38:52 GMT+0200 (CEST)	sms	inbox	+4915157131500	self	Hi, geht ihr heute noch in ne Kneipe?
+1343573513	Sun Jul 29 2012 16:51:53 GMT+0200 (CEST)	sms	outbox	self	+49 (151) 57131500	ja, 19 Uhr, Casa del Gatto am Kaiserplatz. 
+1343578488	Sun Jul 29 2012 18:14:48 GMT+0200 (CEST)	sms	inbox	+4915157131500	self	Ok ich komm dann auch vorbei
+1343578566	Sun Jul 29 2012 18:16:06 GMT+0200 (CEST)	sms	outbox	self	+4915771473794	Hi, Lust auf Casa del Gatto heute um 19 Uhr? Gruß Achim
+1343579166	Sun Jul 29 2012 18:26:06 GMT+0200 (CEST)	sms	inbox	+4915771473794	self	Hi, ja wieso nicht. Da war ich schon ewigkeiten nicht mehr. :) bis gleich.
+1343582092	Sun Jul 29 2012 19:14:52 GMT+0200 (CEST)	sms	outbox	self	+49 157 7147 3794	wir sitzen draußen. Gruß Achim
+1343582114	Sun Jul 29 2012 19:15:14 GMT+0200 (CEST)	sms	outbox	self	+4917663371923	wir sitzen draußen. Gruß Achim
+1343634179	Mon Jul 30 2012 09:42:59 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Der Basti und der Thomas wollen am Freitag mit uns essen gehen. Angeblich wollte der Thomas dich anrufen und das mit der klären. Weißt du was davon? ;) Ich liebe Dich. Achim
+1343644815	Mon Jul 30 2012 12:40:15 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Ne, ich weiß von nichts und ich versteh auch nur Bahnhof. Ich liebe dich! Bussi
+1343645598	Mon Jul 30 2012 12:53:18 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Willst du am Freitag mit dem Thomas, der Lu, dem Basti (und ich glaube der Sarah) im Toco Loco in Hürth essen um 19 Uhr oder so? Ich liebe Dich. Achim
+1343652168	Mon Jul 30 2012 14:42:48 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Können wir gerne machen, was ist das denn genau für ein Laden? Ich liebe dich! Bussi
+1343652218	Mon Jul 30 2012 14:43:38 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Nen Mexikaner.
+1343750626	Tue Jul 31 2012 18:03:46 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Na, mein Wusel. Noch hart am arbeiten? Wenn du nicht viel zu spät kommst, kannst du mich dann vielleicht bei meiner Mama abholen?
+1343894455	Thu Aug 02 2012 10:00:55 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Ich komme heute nicht mit in die Sneak.
+1343903572	Thu Aug 02 2012 12:32:52 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Oh, dauert die Besprechung mit deiner Mama heute länger oder bist du krank? Ich liebe dich! Bussi
+1343917257	Thu Aug 02 2012 16:20:57 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Heute morgen war ich irgendwie total platt. Und dann gehen wir morgen essen, am Samstag ist die Hochzeit den ganzen Tag und am Sonntag bin ich beim Timo... das ist irgendwie alles viel zu viel für den Achim. Ich guck mal, wie lange das gleich mit meiner Mutter dauert und dann entscheide ich spontan, ok? Ich liebe Dich. Achim
+1343917432	Thu Aug 02 2012 16:23:52 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Okay, ich sitzt jetzt sowieso noch im Büro und geh die Karten dann erst später kaufen. Ich liebe dich! Bussi
+1343932830	Thu Aug 02 2012 20:40:30 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Hast du jetzt ne Karte für mich?
+1343932956	Thu Aug 02 2012 20:42:36 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Ja, ich hab eine Karte für dich mitgekauft, wenn du aber zu müde bist, gebe ich die zurück.
+1343933133	Thu Aug 02 2012 20:45:33 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	ne, ich komme jetzt
+1343933228	Thu Aug 02 2012 20:47:08 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Direkt zum Kino oder noch nach Hause?
+1344026259	Fri Aug 03 2012 22:37:39 GMT+0200 (CEST)	sms	outbox	self	+4915122760511	Hi, bei dir ist das linke Rücklicht kaputt, nur, falls du es noch nicht bemerkt hast. Gruß Achim
+1344435767	Wed Aug 08 2012 16:22:47 GMT+0200 (CEST)	sms	inbox	+491781473828	self	Hallo Leute, hier ist meine neue Handynummer, gültig ab jetzt, die alte wird demnächst auslaufen. Viele Grüße, Thomas Barz
+1344511519	Thu Aug 09 2012 13:25:19 GMT+0200 (CEST)	sms	inbox	E-Postbrief	self	Sie haben einen neuen E-POSTBRIEF von Kundenservice@dpdhl.epost.de erhalten.
+1344513836	Thu Aug 09 2012 14:03:56 GMT+0200 (CEST)	sms	outbox	self	+49 (160) 6265208	Hallo, ich denke ich komme heute nicht mit. Bin aber gespannt darauf, was das Ergebnis der Besprechung wird. Vielleicht doch die 8 Jahreslösung von Anfang des Jahres? Viele Grüße Achim
+1344516030	Thu Aug 09 2012 14:40:30 GMT+0200 (CEST)	sms	inbox	+491606265208	self	Danke achim hab d liebschertext geles wir können froh sein wenn die noch auf verhandlungen eingehen, ich meld mich lb gr ingr
+1344578396	Fri Aug 10 2012 07:59:56 GMT+0200 (CEST)	sms	outbox	self	+4915157131500	Hi, heute Abend um 19:30 Uhr wollen wir bei uns die neue Erweiterung zu 7Wonders vom Christian ausprobieren. Außerdem macht die Steffi Kuchen. Auch Lust zu kommen? Gruß Achim
+1344578400	Fri Aug 10 2012 08:00:00 GMT+0200 (CEST)	sms	outbox	self	+4917632226414	Hi, heute Abend um 19:30 Uhr wollen wir bei uns die neue Erweiterung zu 7Wonders vom Christian ausprobieren. Außerdem macht die Steffi Kuchen. Auch Lust zu kommen? Gruß Achim
+1344578404	Fri Aug 10 2012 08:00:04 GMT+0200 (CEST)	sms	outbox	self	+4915771473794	Hi, heute Abend um 19:30 Uhr wollen wir bei uns die neue Erweiterung zu 7Wonders vom Christian ausprobieren. Außerdem macht die Steffi Kuchen. Auch Lust zu kommen? Gruß Achim
+1344580175	Fri Aug 10 2012 08:29:35 GMT+0200 (CEST)	sms	inbox	+4917632226414	self	Hallo, heute und morgen sind bei mir bereits verplant. ;) Timo
+1344585200	Fri Aug 10 2012 09:53:20 GMT+0200 (CEST)	sms	inbox	+4915157131500	self	Jo ich wär dabei
+1344590111	Fri Aug 10 2012 11:15:11 GMT+0200 (CEST)	sms	inbox	+4915771473794	self	Hallo! Ja, hört sich prima an. Bin dabei. Bis später!
+1344590494	Fri Aug 10 2012 11:21:34 GMT+0200 (CEST)	sms	outbox	self	+4917621520721	Statusbericht an das Oberwusel: Timo hat keine Zeit, Alex und Patrick sind dabei. Soll ich noch den Basti fragen?
+1344594962	Fri Aug 10 2012 12:36:02 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Kannst du gerne machen, ich hab aber auch noch Irene und Jona gefragt, aber wenn alle dann kommen würden, passt das mit 8 Personen ja genau fürs Spiel :-)
+1344602924	Fri Aug 10 2012 14:48:44 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Na mein Schatz, Irene und Jona können heute Abend nicht, wie sieht's mit Sarah und Basti aus? Apropos, ich mach mich jetzt auf den Heimweg :-) Ich liebe dich! Bussi
+1344603027	Fri Aug 10 2012 14:50:27 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	uiuiuiuiui :) Der Basti weiß noch nicht genau, die müssen der Mutter noch irgendwie beim Renovieren helfen.
+1344610839	Fri Aug 10 2012 17:00:39 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Bist du so lieb und brings gleich noch ein Baguette mit? Ich liebe dich! Bussi
+1345033420	Wed Aug 15 2012 14:23:40 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Na mein Schatz, wie wäre es denn, wenn wir am Sonntagnachmittag bei uns grillen und deinen Papa, deinen Bruder und meine Eltern dazu einladen? Oder ist dir das zu anstrengend dann am Wochenende und willst vielleicht einen freien Tag haben? Ich liebe dich! Bussi
+1345043959	Wed Aug 15 2012 17:19:19 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Puh... wenn du das organisierst. :-p Aber wenn wir Samstag noch nach Köln wollen wäre ausruhen am Sonntag schon schön.
+1345048681	Wed Aug 15 2012 18:38:01 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Dann ruhen wir uns am Sonntag aus und können ja abends in die Kneipe oder so. Ich liebe dich! Bussi bis später
+1345099234	Thu Aug 16 2012 08:40:34 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Na mein Schatz, wäre es in Ordnung, wenn wir heute vor der Sneak noch was mit den anderen im Cafe Blau trinken gehen würden? Ich liebe dich! Bussi
+1345100919	Thu Aug 16 2012 09:08:39 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Wer wäre das dennn? Du anstrengendes Wusel-Tusel... organisier du mal und ich guck dann, ob ich dazu komme, ok? Ich liebe Dich. Achim
+1345135851	Thu Aug 16 2012 18:50:51 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Hallo Achim, ich bin jetzt schon mal auf dem Weg zum Cafe Blau. Wir warten dann da auf dich. Ich liebe dich! Bussi
+1345197147	Fri Aug 17 2012 11:52:27 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Na mein Wusel. Hier taucht gerade die Frage auf, was wir am Samstag anziehen. Für die Männer haben wir uns auf eine bessere Jeans und Hemd geeinigt (weil es warm wird). Ziehst du nen Sommerkleid an? Und wie schick? Ich liebe Dich. Achim
+1345201191	Fri Aug 17 2012 12:59:51 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Ich wollte wahrscheinlich das blaue Kleid anziehen, was ich auch an Tinas Hochzeit für die Kirche anhatte. Also nicht ganz so schick wie an Bastis Hochzeit, aber auch nicht komplett salopp. Bei den Schuhen bin ich aber noch unentschlossen. Ich liebe dich! Bussi
+1345218736	Fri Aug 17 2012 17:52:16 GMT+0200 (CEST)	type_gtalk	outbox	self	ansgar.tessmer@gmail.com	Hi, der Michael hatte vorgeschlagen, dass wir 3 uns beim Geschenk zusammen tun. 
+1345218972000	Tue Apr 17 44598 02:40:00 GMT+0200 (CEST)	type_gtalk	inbox	ansgar.tessmer@gmail.com	self	Dann bringt mich der Frank um :-)
+1345219000000	Tue Apr 17 44598 10:26:40 GMT+0200 (CEST)	type_gtalk	inbox	ansgar.tessmer@gmail.com	self	Kommt der denn jetzt?
+1345219003	Fri Aug 17 2012 17:56:43 GMT+0200 (CEST)	type_gtalk	outbox	self	ansgar.tessmer@gmail.com	ach, dass muss der Frank doch gar nicht merken. ;)
+1345219032000	Tue Apr 17 44598 19:20:00 GMT+0200 (CEST)	type_gtalk	inbox	ansgar.tessmer@gmail.com	self	Ok
+1345219038	Fri Aug 17 2012 17:57:18 GMT+0200 (CEST)	type_gtalk	outbox	self	ansgar.tessmer@gmail.com	ja, ich denke schon... und er war auch etwas verwirrt, dass du nichts eingesammelt hast.
+1345219089000	Wed Apr 18 44598 11:10:00 GMT+0200 (CEST)	type_gtalk	inbox	ansgar.tessmer@gmail.com	self	Ja toll :-)
+1345219220	Fri Aug 17 2012 18:00:20 GMT+0200 (CEST)	type_gtalk	outbox	self	ansgar.tessmer@gmail.com	besorgst du dann ne Karte? Ich strecke für den Michael vor und dann handeln wir das morgen alles auf der Fahrt.
+1345219293000	Fri Apr 20 44598 19:50:00 GMT+0200 (CEST)	type_gtalk	inbox	ansgar.tessmer@gmail.com	self	HA! Da hat der Frosch die locken...
+1345219457	Fri Aug 17 2012 18:04:17 GMT+0200 (CEST)	type_gtalk	outbox	self	ansgar.tessmer@gmail.com	ist das ein ja? ;)
+1345219702000	Wed Apr 25 44598 13:26:40 GMT+0200 (CEST)	type_gtalk	inbox	ansgar.tessmer@gmail.com	self	Ja
+1345219736	Fri Aug 17 2012 18:08:56 GMT+0200 (CEST)	type_gtalk	outbox	self	ansgar.tessmer@gmail.com	Klingt gut. ;) Wie viel wolltet ihr denn geben?
+1345219795000	Thu Apr 26 44598 15:16:40 GMT+0200 (CEST)	type_gtalk	inbox	ansgar.tessmer@gmail.com	self	Ich habe wirklich keine Ahnung.....lass uns das während der Fahrt klären
+1345229442	Fri Aug 17 2012 20:50:42 GMT+0200 (CEST)	type_gtalk	outbox	self	unschuldsfuchs@icq.draugr.de	BUH. :-p
+1345297391	Sat Aug 18 2012 15:43:11 GMT+0200 (CEST)	sms	inbox	+4915154858955	self	Ist das ok, wenn wir Punkt 1730 bei euch sind?
+1345298602	Sat Aug 18 2012 16:03:22 GMT+0200 (CEST)	sms	outbox	self	+49 (151) 54858955	ja.
+1345305634	Sat Aug 18 2012 18:00:34 GMT+0200 (CEST)	sms	inbox	+4917663371923	self	Hallo. Wollte mal fragen ob wir morgen Nachmittag/Abend (17:00 Uhr?) in die Rheinaue statt Cartoons wollen.  Gruß, Christian.
+1345312892	Sat Aug 18 2012 20:01:32 GMT+0200 (CEST)	sms	outbox	self	+4917663371923 	Ja, hört sich gut an.
+1345317115	Sat Aug 18 2012 21:11:55 GMT+0200 (CEST)	sms	inbox	+4917663371923	self	Ok.Kannst ja den Alex no h fragen ob der auch Lust hat. Der Patrick ist auch dabei.
+1345317201	Sat Aug 18 2012 21:13:21 GMT+0200 (CEST)	sms	outbox	self	+49 157 7147 3794	Hi, Lust morgen 17 Uhr in die Rheinaue? Gruß Achim
+1345326971	Sat Aug 18 2012 23:56:11 GMT+0200 (CEST)	sms	inbox	+4915771473794	self	Hallo! Ich weiß noch nicht so recht ob ich mich bei den Temperaturen morgen überhauppt bewegen möchte oder auch kann. :) Fühl mich jetzt schon wie ein Stein. Liebe Grüße 
+1345329555	Sun Aug 19 2012 00:39:15 GMT+0200 (CEST)	sms	inbox	+4915154858955	self	 Danke!
+1345539104	Tue Aug 21 2012 10:51:44 GMT+0200 (CEST)	sms	inbox	+491606265208	self	Hallo meine lieben d notartermin ist jetzt am montag 17.9.Um 16.30uhr hoffe das klappt lb gr mami
+1345614010	Wed Aug 22 2012 07:40:10 GMT+0200 (CEST)	sms	outbox	self	+4917621520721	Du Hunde  entführer! :(
+1345620054	Wed Aug 22 2012 09:20:54 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Sorry, aber du hättest den Hund ja gestern auch aus der Tasche nehmen können :-P
+1345710539	Thu Aug 23 2012 10:28:59 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Bist du zufällig am 27.8. früh (16 Uhr) zu Hause?
+1345710660	Thu Aug 23 2012 10:31:00 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Davon geh ich nicht aus, da es ein Montag ist und ich außerdem noch einen Termin mit der Abteilungsleiterin nachmittags habe, warum fragst du, komm dann ein Paket?
+1345710995	Thu Aug 23 2012 10:36:35 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Geht um ne Besichtigung der Wohnung durch einen Gutachter. Ich hab das jetzt so geregelt, dass der Hausmeister dafür nen Schlüssel bekommt. 
+1345711093	Thu Aug 23 2012 10:38:13 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Wozu ist das denn nötig?
+1345711157	Thu Aug 23 2012 10:39:17 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	um den Wert des Gebäudes festzustellen.
+1345711545	Thu Aug 23 2012 10:45:45 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Hallo, wie wäre es, wenn wir heute noch einmal den letzten Sonnentag vor der Sneak nutzen und uns um 19 Uhr im Cafe Blau treffen? Liebe Grüße Stephanie
+1345713100	Thu Aug 23 2012 11:11:40 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Der Torsten (ohne h) sagt, dass dein Cup Cake total lecker ist und er mich jetzt öfter erpressen will.
+1345713168	Thu Aug 23 2012 11:12:48 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Aber der war doch für dich und morgen gibt's doch noch Cookies?
+1345713268	Thu Aug 23 2012 11:14:28 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Durfte ich nur einen mitnehmen?
+1345713715	Thu Aug 23 2012 11:21:55 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Ne, aber damit ärgerst du doch nur die anderen, die keinen Cupcake bekommen.
+1345713811	Thu Aug 23 2012 11:23:31 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Deshalb hab ich ja nicht bis Mittag gewartet, sondern den gerade vorbei gebracht. Schlauer, als du denkst, ist der Achim manchmal, ne? :-p
+1345739388	Thu Aug 23 2012 18:29:48 GMT+0200 (CEST)	sms	outbox	self	+49 157 7147 3794	Hi, wir gehen heute doch nicht ins Cafe Blau, sehen uns also erst am Kino. Bis dann. Gruß Achim
+1345739659	Thu Aug 23 2012 18:34:19 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Also der PIN lautet: 4699
+1345739725	Thu Aug 23 2012 18:35:25 GMT+0200 (CEST)	sms	inbox	+4915771473794	self	Ok, bis später!
+1345739845	Thu Aug 23 2012 18:37:25 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	hier gibt's Flammkuchen aif dem Münsterplatz.
+1345799987	Fri Aug 24 2012 11:19:47 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Na mein Schatz, hast du vielleicht eine Idee oder Wusch, was ich heute Abend zu Essen machen soll? Wie wäre es mit Crepes? lch liebe dich! Bussi
+1345840790	Fri Aug 24 2012 22:39:50 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Hab Kopfschmerzen und keine Lust mehr. Gehe jetzt nach Hause.
+1346153406	Tue Aug 28 2012 13:30:06 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Na mein Schatz, wollen wir morgen vielleicht mal wieder ins Limes zur Kopfnusslesung gehen oder eventuell ins Woki zur Sneak? Thomas Schmitz hat nämlich eben mal per Mail nachgefragt. Ich liebe dich! Bussi
+1346167982	Tue Aug 28 2012 17:33:02 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Mach du ruhig. :-p
+1346225345	Wed Aug 29 2012 09:29:05 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Na mein Schatz, Irene kommt heute Abend auch mit und daher versuchen wir um 19:45 Uhr am Limes zu sein, okay? Ich werde dann direkt vom Cafe Blau zum Limes gehen, also treffen wir uns dann um 19:45 Uhr direkt am Limes. Ich liebe dich! Bussi
+1346245730	Wed Aug 29 2012 15:08:50 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Willst du dann die Yvonne auch noch fragen und  mit der Anstoßen auf ihren Geburtstag? ;)
+1346246800	Wed Aug 29 2012 15:26:40 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Ja, das ist eine schlaue Idee :-)
+1346263624598	Wed May 25 44631 23:56:38 GMT+0200 (CEST)	mms	outbox	self	+491775562195	No text
+1346263629000	Thu May 26 44631 01:10:00 GMT+0200 (CEST)	mms	inbox	+491775562195	self	No text
+ 	Invalid Date	mms	 	unknown	unknown	No text
+1346307242	Thu Aug 30 2012 08:14:02 GMT+0200 (CEST)	sms	outbox	self	+4917644531549	Hi, alles Gute zum Geburtstag. Ich hab gehört, du hast Kuchen gebacken? Das wäre doch nicht nötig gewesen. Wann soll ich den essen kommen? :-p Viele Grüße. Achim
+1346307246	Thu Aug 30 2012 08:14:06 GMT+0200 (CEST)	sms	outbox	self	+4917621520721	Hi, alles Gute zum Geburtstag. Ich hab gehört, du hast Kuchen gebacken? Das wäre doch nicht nötig gewesen. Wann soll ich den essen kommen? :-p Viele Grüße. Achim
+1346307279	Thu Aug 30 2012 08:14:39 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Hab dir nur geschickt, damit das Wusel bescheid weiß. So. ;)
+1346308721	Thu Aug 30 2012 08:38:41 GMT+0200 (CEST)	sms	inbox	+4915154858955	self	Hi Achim, sitzt du gerade im Bus? Dennis und ich wundern uns, wo der Bus bleibt... Ansgar
+1346308824	Thu Aug 30 2012 08:40:24 GMT+0200 (CEST)	sms	outbox	self	+49 (151) 54858955	Nein, der war noch nicht hier. Laut vrs-info.de hat der 20 min Verspätung sollte jetzt kommen.
+1346308864	Thu Aug 30 2012 08:41:04 GMT+0200 (CEST)	sms	inbox	+4915154858955	self	Danke :-)
+1346310055	Thu Aug 30 2012 09:00:55 GMT+0200 (CEST)	sms	inbox	+4917644531549	self	Morgen ab 16h ist Tag der offenen Tür :-) 
+1346336791	Thu Aug 30 2012 16:26:31 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Hallo mein Wusel. Nach meiner charmanten Anfrage hat die Yvonne mitgeteilt, dass es morgen ab 16 Uhr bei ihr Kuchen gibt... Dein Arzt hieß Füssel, oder?
+1346338076	Thu Aug 30 2012 16:47:56 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Ja genau, willst du da jetzt endlich mal nen Termin machen? lch liebe dich! Bussi
+1346361642	Thu Aug 30 2012 23:20:42 GMT+0200 (CEST)	sms	inbox	+491606265208	self	Hallo m lieben sind in straßburg haben stadtrundgang u gutes elsassessen hinter uns u fahren morgen weiter lb gr i u t
+1346393313	Fri Aug 31 2012 08:08:33 GMT+0200 (CEST)	sms	outbox	self	+491788497696	Hi, heute spontan Lust auf einen  Spieleabend bei uns? Gruß Achim
+1346393315	Fri Aug 31 2012 08:08:35 GMT+0200 (CEST)	sms	outbox	self	+4917632226414	Hi, heute spontan Lust auf einen  Spieleabend bei uns? Gruß Achim
+1346394140	Fri Aug 31 2012 08:22:20 GMT+0200 (CEST)	sms	inbox	+4917632226414	self	Das kommt eher ungelegen. Aber wenn du spontan zu mir nach Magdeburg kommst, können wir gerne etwas spielen. :p
+1346411867	Fri Aug 31 2012 13:17:47 GMT+0200 (CEST)	sms	outbox	self	+4915157131500	Hi, heute spontan Lust auf einen  Spieleabend bei uns? Gruß Achim
+1346427655	Fri Aug 31 2012 17:40:55 GMT+0200 (CEST)	sms	inbox	+4915157131500	self	Hi ich muss leider noch ein bischen arbeiten, weis noch nicht wie lange
+1346427803	Fri Aug 31 2012 17:43:23 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Na mein Wusel. Bin jetzt im Zug und gleich zu Hause. Leider bin ich viel zu spät weg gekommen. :( Gibt es schon neues wegen heute Abend? Bisher haben alle abgesagt.
+1346427986	Fri Aug 31 2012 17:46:26 GMT+0200 (CEST)	sms	outbox	self	+4915771473794	Hi, Lust spontan auf Spieleabend heute 19:30 bei uns? Steffi kocht auch. ;) Gruß Achim
+1346428080	Fri Aug 31 2012 17:48:00 GMT+0200 (CEST)	sms	outbox	self	+49 176 44531549	Hi, bin leider viel zu spät von der Arbeit losgekommen und muss jetzt wohl leider auf den Kuchen verzichten, weil die Steffi den Abend schon verplant hat. :( Ich hoffe, es kommen ein paar andere Kuchenesser vorbei und wünsche dir viel Spaß. Viele Grüße Achim
+1346428234	Fri Aug 31 2012 17:50:34 GMT+0200 (CEST)	sms	inbox	+4915771473794	self	Hi! Das klingt unschlagbar gut. :) bis nachher
+1346428276	Fri Aug 31 2012 17:51:16 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Der Alex mag uns. :) Hast du dem Thul auch gesagt, dass es Essen gibt?
+1346428459	Fri Aug 31 2012 17:54:19 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Ja, hab ich alles gemacht :-)
+1346428810	Fri Aug 31 2012 18:00:10 GMT+0200 (CEST)	sms	inbox	+4917644531549	self	Ich backe neuen Kuchen und bringe ihn zur nächsten sneak mit ;) grüß deine Frau! 
+1346595330	Sun Sep 02 2012 16:15:30 GMT+0200 (CEST)	sms	outbox	self	+4917663371923	Hi, Lust heute was zu machen, wie z.b. Cartoons oder bei uns auf der Terasse sitzen? Gruß Achim
+1346595332	Sun Sep 02 2012 16:15:32 GMT+0200 (CEST)	sms	outbox	self	+491777174165	Hi, Lust heute was zu machen, wie z.b. Cartoons oder bei uns auf der Terasse sitzen? Gruß Achim
+1346595333	Sun Sep 02 2012 16:15:33 GMT+0200 (CEST)	sms	outbox	self	+4915157131500	Hi, Lust heute was zu machen, wie z.b. Cartoons oder bei uns auf der Terasse sitzen? Gruß Achim
+1346595335	Sun Sep 02 2012 16:15:35 GMT+0200 (CEST)	sms	outbox	self	+4915771473794	Hi, Lust heute was zu machen, wie z.b. Cartoons oder bei uns auf der Terasse sitzen? Gruß Achim
+1346595520	Sun Sep 02 2012 16:18:40 GMT+0200 (CEST)	sms	inbox	+4915157131500	self	Hi. Joa ich Denk mal schon. Bin eh grad aufm weg nach Bonn weil ich noch grad was erledigen NZZ
+1346595525	Sun Sep 02 2012 16:18:45 GMT+0200 (CEST)	sms	inbox	+4915157131500	self	Muss*
+1346595695	Sun Sep 02 2012 16:21:35 GMT+0200 (CEST)	type_gtalk	outbox	self	284941938@icq.draugr.de	Hi, Lust heute was zu machen, wie z.b. Cartoons oder bei uns auf der Terasse sitzen? Gruß Achim
+1346596201000	Wed Dec 08 44641 05:16:40 GMT+0100 (CET)	type_gtalk	inbox	284941938@icq.draugr.de	self	hi :) sorry. judith ist da und die mag lieber aufm sofa rumliegen ;) ich denke das wird die nächsten wochen auch so sein, weil judith erst in einem monat ein zimmer hier in köln hat.
+1346596869	Sun Sep 02 2012 16:41:09 GMT+0200 (CEST)	sms	inbox	+4915771473794	self	Hi! Also Cartoons find ich gut. Welche Uhrzeit hattet ihr denn angepeilt? :)
+1346601204	Sun Sep 02 2012 17:53:24 GMT+0200 (CEST)	sms	outbox	self	+49 (151) 57131500	Wann denn?
+1346601237	Sun Sep 02 2012 17:53:57 GMT+0200 (CEST)	sms	inbox	+4915157131500	self	Bin gleich fertig, 15-30min
+1346602864	Sun Sep 02 2012 18:21:04 GMT+0200 (CEST)	sms	inbox	+4915157131500	self	Fertig, wo soll ich hinkommen?
+1346603098	Sun Sep 02 2012 18:24:58 GMT+0200 (CEST)	sms	outbox	self	+49 (151) 57131500	Wir müssen uns noch grad fertig machen und wollen dann ins Cartoons. Der Alex will auch mit und läuft wohl schon in Bonn rum.
+1346603414	Sun Sep 02 2012 18:30:14 GMT+0200 (CEST)	sms	inbox	+4915157131500	self	Ok dann bin ich auch in 10min da
+1346604313	Sun Sep 02 2012 18:45:13 GMT+0200 (CEST)	sms	outbox	self	+49 157 7147 3794	Wir machen uns jetzt auf den weg. Der Patrick auch. ;)
+1346604397	Sun Sep 02 2012 18:46:37 GMT+0200 (CEST)	sms	inbox	+4915771473794	self	Ok, dann setz ich auch mal die Segel. Bis gleich :) 
+1346604546	Sun Sep 02 2012 18:49:06 GMT+0200 (CEST)	sms	inbox	+4915157131500	self	Bin schon da(oben)
+1346666521	Mon Sep 03 2012 12:02:01 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Also das Wusel kommt heute spät nach Hause?
+1346669795	Mon Sep 03 2012 12:56:35 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Ja, mit sehr hoher Wahrscheinlichkeit werde ich nur vor 19 Uhr zu Hause sein, denn ich hab von 17-18:30 Uhr noch eine wichtige Telko. Warum fragst du?
+1346670407	Mon Sep 03 2012 13:06:47 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Wollte nur sicher gehen, dann bleib ich heute auch lange.
+1346691947	Mon Sep 03 2012 19:05:47 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Das Fenster ist noch einen spalt offen. Wie war nochmal die PIN?
+1346692289	Mon Sep 03 2012 19:11:29 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Das mit dem Fenster hab ich selbst gemerkt, schlau ne? Der PIN lautet: 4699
+1346704781	Mon Sep 03 2012 22:39:41 GMT+0200 (CEST)	type_gtalk	outbox	self	76472613@icq.draugr.de	Der böse Timo. :-p
+1346704795000	Sun May 18 44645 03:16:40 GMT+0200 (CEST)	type_gtalk	inbox	76472613@icq.draugr.de	self	Der Timo ist lieb :p
+1346704826	Mon Sep 03 2012 22:40:26 GMT+0200 (CEST)	type_gtalk	outbox	self	76472613@icq.draugr.de	Du kennst einen lieben Timo?
+1346704845000	Sun May 18 44645 17:10:00 GMT+0200 (CEST)	type_gtalk	inbox	76472613@icq.draugr.de	self	Ich bin lieb!
+1346773934	Tue Sep 04 2012 17:52:14 GMT+0200 (CEST)	sms	outbox	self	+4917621520721	Na mein Wusel. Willst du am Dienstag zu Pützchens Markt zum Feuerwerk? Willst du am Wochende zu den Ritterfestspielen in Burg Satzvey?
+1346913045	Thu Sep 06 2012 08:30:45 GMT+0200 (CEST)	type_gtalk	outbox	self	76472613@icq.draugr.de	Lust am Sonntag auf Ritterfestspiele auf Burg Satzvey?
+1346826845	Wed Sep 05 2012 08:34:05 GMT+0200 (CEST)	sms	outbox	self	+491788497696	Lust am Sonntag auf Ritterfestspiele auf Burg Satzvey?
+1346826869	Wed Sep 05 2012 08:34:29 GMT+0200 (CEST)	sms	outbox	self	+4917632226414	Lust am Sonntag auf Ritterfestspiele auf Burg Satzvey?
+1346913143	Thu Sep 06 2012 08:32:23 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Na mein Schatz, wie wäre es, wenn wir morgen Abend ins Quiet Man gehen? Ich würde dann auch mal Henning und Timo fragen. Ich liebe dich! Bussi
+1346920800000	Mon Mar 22 44652 03:40:00 GMT+0100 (CET)	type_gtalk	inbox	76472613@icq.draugr.de	self	Hm, das überlege ich mir spontan ;)
+1346997291	Fri Sep 07 2012 07:54:51 GMT+0200 (CEST)	sms	outbox	self	+4915123286127	Hi, bin gerade beim Arzt und hab das wohl nicht in den Kalender eingetragen. Komme aber später noch. Gruß Achim
+1346997328	Fri Sep 07 2012 07:55:28 GMT+0200 (CEST)	sms	inbox	+4915123286127	self	Ok
+1347035802	Fri Sep 07 2012 18:36:42 GMT+0200 (CEST)	sms	inbox	+491755384888	self	Kannst du mir deine hausnummer schicken? Dann gibt es auch eine karte aus italien
+1347035863	Fri Sep 07 2012 18:37:43 GMT+0200 (CEST)	sms	outbox	self	+49 (175) 5384888	Thomas-Mann-Str. 54, 53111 Bonn. Viele Grüße und Viel Spaß in Italien. :) Achim
+1347041955	Fri Sep 07 2012 20:19:15 GMT+0200 (CEST)	type_gtalk	outbox	self	76472613@icq.draugr.de	Wir wollen zwischen 11 und 11:30 Uhr los.
+1347121094	Sat Sep 08 2012 18:18:14 GMT+0200 (CEST)	sms	inbox	+491712717889	self	Hi Achim bitte um Tip Geb - Geschenk für Stephanie betreffend Wolfgang 
+1347376954	Tue Sep 11 2012 17:22:34 GMT+0200 (CEST)	sms	outbox	self	+4917621520721	Will das Wusel immer noch  zu Pützchens Markt, oder macht es schon nen Rückzieher?  :)
+ 	Invalid Date	type_gtalk	inbox	chaikianping@gmail.com	self	Sie haben eine Einladung von chaikianping@gmail.com erhalten.
+ 	Invalid Date	type_gtalk	outbox	self	chaikianping@gmail.com	Einladung von chaikianping@gmail.com angenommen
+1347433984	Wed Sep 12 2012 09:13:04 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Na mein armes Wusel. Der Achim hat total verschlafen und auch das Handy hat nicht geklingelt... Hab es gerade noch zum Zug geschafft. Herzlichen Glückwunsch zum Geburtstag mein liebes Wusel. Dein kein Geburtstagsgeschenk bekommst du beim Essen. Ich liebe Dich. Achim
+1347434684	Wed Sep 12 2012 09:24:44 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Du Schlafnase! Ich bin schon gerade auf der Arbeit total mit tollen Geschenken überhäuft worden :-) Als ich mein Büro aufschloss stand da ein wunderschöner Geburtstagsstrauß vom Herrn Meier und zusätzlich hab ich noch von ihm und den Mädels was bekommen, voll toll :-)  
+1347454678	Wed Sep 12 2012 14:57:58 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	*gähn* *hang* :-p
+1347554670	Thu Sep 13 2012 18:44:30 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Na mein Schatz, bist du so lieb und gehst gleich die Sneak-Karten kaufen? Wir brauchen 6 Stück! Ich liebe dich! Bussi
+1347554765	Thu Sep 13 2012 18:46:05 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Kann ich machen, ich bin aber erst so um 20 uhr in bonn. Ich liebe Dich. Achim
+1347554844	Thu Sep 13 2012 18:47:24 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Na gut, dann geh ich sie doch selbst kaufen, nachdem ich mit Sarah gesprochen habe. Ich liebe dich! Bussi
+1347558731	Thu Sep 13 2012 19:52:11 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Warst du jetzt schon Karten holen?
+1347558862	Thu Sep 13 2012 19:54:22 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Ne, kannst du die Karten doch noch kaufen?
+1347729657	Sat Sep 15 2012 19:20:57 GMT+0200 (CEST)	sms	inbox	+4915771473794	self	Bin auch gleich da. Warte auf den Schnellbus :) 
+1347778101	Sun Sep 16 2012 08:48:21 GMT+0200 (CEST)	sms	inbox	+4917632226414	self	Wie sehen eure Pläne für heute Nachmittag/Abend aus? ;)
+1347902674	Mon Sep 17 2012 19:24:34 GMT+0200 (CEST)	sms	outbox	self	+4917621520721	Na mein Muff-Nuff. Icch bin noch auf der Arbeit... Falls du Hunger hast solltest du ohne mich essen. Ich weiß noch nicht genau, wie lange es noch dauert. Ich liebe Dich. Achim
+1347949478	Tue Sep 18 2012 08:24:38 GMT+0200 (CEST)	type_gtalk	outbox	self	timo.roehling@gmail.com	Hi, der Michael und der Thomas haben gestern noch ausgerechnet, dass die Deadline um 9 Uhr endet. Nur, falls du noch nicht submitted hast...
+1347949507000	Sun Oct 26 44684 11:36:40 GMT+0100 (CET)	type_gtalk	inbox	timo.roehling@gmail.com	self	Danke! Ich werde wohl gleich submitten (müssen).
+1347957247	Tue Sep 18 2012 10:34:07 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Na mein Schatz, das Internet, Intranet und alle Laufwerke sind momentan ausgefallen und wir sitzen jetzt doof hier rum :-( Hast du irgendeinen speziellen Essenswunsch für heute Abend? Wie wärs mit Nudelauflauf? Ich liebe dich! Bussi
+1347970035	Tue Sep 18 2012 14:07:15 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Is dir langweilig? Keine Ahnung... Du willst den Achim schon wieder dick machen? :-p
+1347970211	Tue Sep 18 2012 14:10:11 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Dann gibt es halt Salat, der muss ja irgendwann auch gegessen werden und vielleicht probiere ich auch mal die Reisbällchen aus :-)
+1348070217	Wed Sep 19 2012 17:56:57 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Na, mein süßes Wusel. Wir sind heile in Thun angekommen und grillen jetzt zum willkommen. Ich liebe Dich. Achim
+1348072245	Wed Sep 19 2012 18:30:45 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Oh, dann mal viel Spaß und ess ein Steak für mich mit :-) Ich liebe dich! Bussi
+1348147832	Thu Sep 20 2012 15:30:32 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Das Wusel ist ja schon zu Hause und guckt fernsehen. Soso. ;) Ich liebe Dich. Achim
+1348149868	Thu Sep 20 2012 16:04:28 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Woher weißt du, dass ich schon zu Hause bin? Ich liebe dich! Bussi
+1348160678	Thu Sep 20 2012 19:04:38 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Weil ich gucken musste, ob der Server ordentlich funktioniert und der hat mir verraten, dass da schon jemand am fernsehen ist. :) Ich weiß alles. :-p
+1348160804	Thu Sep 20 2012 19:06:44 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Gut, dass das alles nur Tarnung war, währenddessen ich gerade den Nusseckenteig am vorbereiten war :-P
+1348162285	Thu Sep 20 2012 19:31:25 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Jaja, du hast doch bestimmt nur auf der Couch geschlafen. :-p
+1348162503	Thu Sep 20 2012 19:35:03 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Ne, zu diesem Zeitpunkt war ich im Wuselfieber :-)
+1348294371	Sat Sep 22 2012 08:12:51 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Na mein süßes Wusel. Bist du schon in Berlin oder erst auf dem Weg dahin? Ich liebe Dich. Achim
+1348297349	Sat Sep 22 2012 09:02:29 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Na mein Schatz, wir sind jetzt auf dem Weg zum Hotel, um unsere Rucksäcke abzugeben und dann geht's ab zum frühstücken :-) Wie geht's dir denn? Ich liebe dich! Bussi
+1348308237	Sat Sep 22 2012 12:03:57 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Mir geht's nicht so toll. Bin voll platt und müde und es klappt alles nicht so toll. Ich wünsch euch beiden viel Spaß und viele Grüße an die Sarah. Ich liebe Dich. Achim
+1348311079	Sat Sep 22 2012 12:51:19 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Oh du armer Achim, wenn du nach Hause kommst, musst du unbedingt zum Arzt gehen, damit du endlich wieder fit wirst! Ich liebe dich ganz doll! Bussi
+1348413409	Sun Sep 23 2012 17:16:49 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Na mein Schatz, wie geht's dir denn heute, fühlst du dich etwas fitter? Mir tun die Füße vom ständigen Laufen durch Berlin weh und ich bin ein wenig müde und hab gar keine Lust morgen früh aufzustehen, aber was sein muss, muss sein :-( Ich liebe dich! Bussi
+1348431672	Sun Sep 23 2012 22:21:12 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Na, mein armes Wusel. Hab es irgendwie nicht geschafft, mich bei dir zu melden. Ich schlafe irgendwie voll schlecht und bin deshalb auch ziemlich müde. Aber ansonsten geht es mir ganz gut. Ich wünsch dir eine gute Nacht und liebe Dich ganz doll. Achim
+1348514571	Mon Sep 24 2012 21:22:51 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Na mein Wusel. Kann es sein, dass Telefon und Internet nicht gehen? Kannst du mal im Keller die FritzBox neustarten? Ich liebe Dich. Achim
+1348515031	Mon Sep 24 2012 21:30:31 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	  Wie mach ich das denn?
+1348515258	Mon Sep 24 2012 21:34:18 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Im Keller, wo der Server steht, da auf dem Kasten, wo der Monitor draufsteht, da liegt auch die FritzBox. Da müsstest du einfach das Stromkabel rausziehen können (das schwarze) und dann gehen die Lämpchen aus. Und dann das Stromkabel wieder reinstecken. Geht denn das Kabelfernsehen? Z.b. TNT oder so?
+1348515580	Mon Sep 24 2012 21:39:40 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Also das Telefon klappt jetzt wieder, aber das Fernsehen halt noch nicht :-( Soll ich noch einmal das Kabel drausziehen?
+1348515706	Mon Sep 24 2012 21:41:46 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Ne, die Kiste hat nichts mit Fernsehen zu tun. Nur Telefon und Internet.
+1348523563	Mon Sep 24 2012 23:52:43 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Ist das Wusel noch wach? Kannst du den rechten Server (wenn du davor stehst) heute oder morgen vor der Arbeit neustarten? Der benimmt sich nicht... :( Ich liebe Dich. Achim
+1348554413	Tue Sep 25 2012 08:26:53 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Guten Morgen mein Schatz, ich hab eben den Server neu gestartet und hoffe, dass jetzt wieder alles klappt. Ich liebe dich! Bussi
+1348569477	Tue Sep 25 2012 12:37:57 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Bist ein tolles Wusel. Hab dich lieb. :) Achim
+1348595088	Tue Sep 25 2012 19:44:48 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Viel Spaß im Kino. :-p
+1348595118	Tue Sep 25 2012 19:45:18 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Der Alex  kommt zu spät.
+1348604497	Tue Sep 25 2012 22:21:37 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Nein, wir waren heute nicht im Kino, sondern waren bei der Klangwelle, die war super genial. Du hast echt was verpasst!
+1348608783	Tue Sep 25 2012 23:33:03 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Hast du die E-Mail von der "Academy" bekommen, dass du bei der Verlosung für die Bleacher mit machst? Gute Nacht. Ich liebe Dich. Achim
+1348641134	Wed Sep 26 2012 08:32:14 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Ja, ich hab die Email von den Oscars gelesen, vielen Dank für die Anmeldung. Ich liebe dich! Bussi 
+1348685623	Wed Sep 26 2012 20:53:43 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Na mein Schatz, bin eben auf dem Weg zur Kopfnuss-Lesung mit dem Fahrrad in die Gleise geraten und hab mich voll hingelegt, aua :-( Mein Arm, Bein und der Brustkorb tut weh, aber ich bin ja hart im nehmen und direkt weitergefahren. Ich liebe dich! Bussi
+1348685844	Wed Sep 26 2012 20:57:24 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Och, du Powerwusel. :( Ich steh grad im Regen im Wald und guck Leuten zu, wie sie mit ihren Robotern fahren, nachdem gestern mein Versuch ziemlich schief gelaufen ist. :( Will nach Hause. Ich liebe Dich. Achim
+1348686976	Wed Sep 26 2012 21:16:16 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Oh, du armer Achim. Es dauert ja Gott sei dank nicht mehr lange, bis du zu Hause bist und dann kann ich auch wieder gut schlafen und pfleg dich mal wieder gesund. Ich liebe dich ganz doll! Bissi  
+1348766880	Thu Sep 27 2012 19:28:00 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Hurra, fertig. Und jetzt gibt's essen. Wie geht's denn meinem Wusel? Tut immer noch alles weh? Ich liebe Dich. Achim
+1348771668	Thu Sep 27 2012 20:47:48 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Ja, ich hab jetzt sogar noch mehr kaputte Stellen gefunden, bin schon ziemlich kaputt :-( Wann bist du denn morgen zu Hause bzw. wann kommt dein Zug an? Ich liebe dich! Bussi
+1348771838	Thu Sep 27 2012 20:50:38 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Aber das geht schon? Oder willst du zum Arzt du kaputtes etwas? Nicht, dass du irgendwas inneres hast. Der Zug ist morgen um kurz vor 5 da. Ich liebe Dich. Achim
+1348772742	Thu Sep 27 2012 21:05:42 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Der Brustkorb macht mir halt ein bissel Sorge, der Anschnallgurt beim Autofahren ist halt unangenehm. Ich guck mir das später aber mal im Spiegel an, denn an Arm, Knie, Fuss und im Gesicht sieht man halt blaue Flecken und Schurfwunden und wenn man die am Brustkorb nicht sieht, könnte das wirklich was Inneres sein, aber sonst geht's schon. Ich liebe dich und freu mich morgen auf dich! Stephanie
+1348842830	Fri Sep 28 2012 16:33:50 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Na, was treibt mein armes, geschundenes Wusel? Bist du schon zu Hause? Ich liebe Dich. Achim
+1348855522000	Sun Jul 13 44713 19:26:40 GMT+0200 (CEST)	type_gtalk	inbox	unschuldsfuchs@icq.draugr.de	self	Ich will dir fressen! :p
+1348928717000	Sun Nov 07 44715 22:23:20 GMT+0100 (CET)	type_gtalk	inbox	76472613@icq.draugr.de	self	:P
+1348940516	Sat Sep 29 2012 19:41:56 GMT+0200 (CEST)	sms	outbox	self	+4917663371923	Hi, morgen Lust auf Kneipe? Gruß Achim
+1348940519	Sat Sep 29 2012 19:41:59 GMT+0200 (CEST)	sms	outbox	self	+491777174165	Hi, morgen Lust auf Kneipe? Gruß Achim
+1348940520	Sat Sep 29 2012 19:42:00 GMT+0200 (CEST)	sms	outbox	self	+4915157131500	Hi, morgen Lust auf Kneipe? Gruß Achim
+1348940522	Sat Sep 29 2012 19:42:02 GMT+0200 (CEST)	sms	outbox	self	+4915771473794	Hi, morgen Lust auf Kneipe? Gruß Achim
+1348940571	Sat Sep 29 2012 19:42:51 GMT+0200 (CEST)	sms	inbox	+4915157131500	self	Hi, weis noch nicht ob ich das schaffe, wenn dann spontan
+1348940759	Sat Sep 29 2012 19:45:59 GMT+0200 (CEST)	sms	inbox	+4917663371923	self	Joa warum nicht. 
+1348941247	Sat Sep 29 2012 19:54:07 GMT+0200 (CEST)	sms	inbox	+4915771473794	self	Hi! Ja, da bin ich dabei. Schönen abend euch noch und bis morgen dann! Liebe Grüße
+1349013855000	Sat Jul 20 44718 08:50:00 GMT+0200 (CEST)	type_gtalk	inbox	76472613@icq.draugr.de	self	Buh :p
+1349015314	Sun Sep 30 2012 16:28:34 GMT+0200 (CEST)	sms	inbox	+4917663371923	self	Kneipe heute um 7 im Cartoons?
+1349015347	Sun Sep 30 2012 16:29:07 GMT+0200 (CEST)	sms	outbox	self	+4917663371923 	Ja.
+1349015368	Sun Sep 30 2012 16:29:28 GMT+0200 (CEST)	sms	outbox	self	+49 157 7147 3794	Also heute 19 Uhr Cartoons. Ok?
+1349015402	Sun Sep 30 2012 16:30:02 GMT+0200 (CEST)	sms	outbox	self	+49 (151) 57131500	Wenn's bei dir klappt: heute 19 Uhr Cartoons. Gruß Achim
+1349015532	Sun Sep 30 2012 16:32:12 GMT+0200 (CEST)	sms	inbox	+4915771473794	self	Ok passt! Bis nachher!
+1349016033	Sun Sep 30 2012 16:40:33 GMT+0200 (CEST)	sms	inbox	+4917632226414	self	Eis essen gehen in Beuel? :)
+1349016085	Sun Sep 30 2012 16:41:25 GMT+0200 (CEST)	sms	outbox	self	+49 176 3222 6414	Wann?
+1349016131	Sun Sep 30 2012 16:42:11 GMT+0200 (CEST)	sms	inbox	+4917632226414	self	Gleich oder später? ;)
+1349018424	Sun Sep 30 2012 17:20:24 GMT+0200 (CEST)	sms	outbox	self	+49 176 3222 6414	Wir gehen un 19 Uhr ins Cartoons. Willst du da mit?
+1349019049	Sun Sep 30 2012 17:30:49 GMT+0200 (CEST)	sms	inbox	+4917632226414	self	Äh, eher nicht. Da gibt es kein tolles Eis. ;)
+1349074603	Mon Oct 01 2012 08:56:43 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Hi, der Michael fragt, was wir dem Basti zur Einweihunngsparty schenken und fragt, ob er mitmachen kann. Ich liebe Dich. Achim
+1349081280	Mon Oct 01 2012 10:48:00 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Natürlich können die mitschenken und ich wollte Basti da sowieso noch wegen Geschenkideen fragen oder ansonsten gibt's halt Ikea-Gutscheine und nen Blumenstrauß, okay? Wir fahren doch gemeinsam am Samstag mit Yvonne nach Köln, oder? Wann sollen wir denn dann losfahren, reicht's, wenn ich Yvonne 10 Uhr in Bonn sein, sage oder lieber später? Ich liebe dich! Bussi
+1349081937	Mon Oct 01 2012 10:58:57 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Das mit Samstag kannst du organisieren, wie du möchtest, ich will nur nen bisschen ausschlafen. Ich liebe Dich. Achim
+1349082048	Mon Oct 01 2012 11:00:48 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Ist denn dann 09:30 Uhr aufstehen okay? Köln wird sonst nämlich so voll! Ich liebe dich! Bussi
+1349159270	Tue Oct 02 2012 08:27:50 GMT+0200 (CEST)	type_gtalk	outbox	self	ansgar.tessmer@gmail.com	Seid ihr schon im Bus?
+1349159825000	Mon Mar 05 44723 19:03:20 GMT+0100 (CET)	type_gtalk	inbox	ansgar.tessmer@gmail.com	self	Ich bin mit meinem Wagen gerade beim reifen-Wechsel.... heute also kein Bus :-)
+1349181340	Tue Oct 02 2012 14:35:40 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Na mein Schatz, was hälst du von einer Kürbis-Möhren-Suppe? Soll ich die vielleicht morgen machen? Ich liebe dich! Bussi
+1349185438	Tue Oct 02 2012 15:43:58 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Ja, mach das. :)
+1349185560	Tue Oct 02 2012 15:46:00 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Sonst noch irgendwelche Einkaufswünsche z.B. Obst?
+1349185745	Tue Oct 02 2012 15:49:05 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Obst ist alle.. Also sowas wie Äpfel und Bananen, oder so? Oder ganz viel Schokolade. :-p
+1349276926	Wed Oct 03 2012 17:08:46 GMT+0200 (CEST)	sms	inbox	+4915157131500	self	Hi, macht ihr heute irgendwas? Cartoons o.ä.?
+1349606611	Sun Oct 07 2012 12:43:31 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Was gibt's?
+1349606687	Sun Oct 07 2012 12:44:47 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Wir warten schon draußen auf euch, wir sind schon durch :-)
+1349700689	Mon Oct 08 2012 14:51:29 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Kriegt das Wusel SMS?
+1349700749	Mon Oct 08 2012 14:52:29 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Ja, warum denn nicht?
+1349703588	Mon Oct 08 2012 15:39:48 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Bist du so lieb und gehst mir gleich in der Apotheke Ipalad, Nicola und Wick-Daymed oder so gegen die Erkältung holen? Ich liebe dich! Bussi 
+1349703650	Mon Oct 08 2012 15:40:50 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Bist du schon zu Hause und schläfst?
+1349703775	Mon Oct 08 2012 15:42:55 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Ja, ich wollte eigentlich zum Arzt, aber der hat Herbsturlaub und die Vertretung hat auch schon zu :-(
+1349705820	Mon Oct 08 2012 16:17:00 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	 Was hast du denn für Beschwerden? Halsschmerzen? Kopfschmerzen? Sonst noch was? Husten?
+ 	Invalid Date	sms	drafts	unknown	unknown	Eeeeee
+1349782121	Tue Oct 09 2012 13:28:41 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Na mein Schatz, wann kommst du denn dein Auto heute Abend wieder abholen? Ich komm dann direkt zum Volvo-Händler, oder? Ich liebe dich! Bussi
+1349788319	Tue Oct 09 2012 15:11:59 GMT+0200 (CEST)	sms	inbox	LaLineaFran	self	Sehr geehrter Herr Königs, ihr Fahrzeug steht ab 15 Uhr zur Abholung bereit. Wir bedanken uns bei Ihnen für diesen Auftrag. La Linea Franca GmbH 0228/953430 
+1349789816	Tue Oct 09 2012 15:36:56 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Willst du lieber um kurz vor 5 oder um kurz vor 6 nach Hause?
+1349790017	Tue Oct 09 2012 15:40:17 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Wir treffen uns doch um 17:30 Uhr mit den anderen zum Essen im Tao, daher wäre ich für kurz vor 5. Wann soll ich denn dann bei Volvo genau sein? Ich liebe dich! Bussi
+1349791836	Tue Oct 09 2012 16:10:36 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Jetzt bist du doch fitt genug?
+1349792178	Tue Oct 09 2012 16:16:18 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Also ich nehme jetzt den Bus, dann bin ich um 40 in Mehlem am BHF, dann lauf ich ca. 10 Min bis zum Volvo Händler und muss dann da noch bezahlen. Ich denke, wenn du zwischen 10 vor und punkt da bist, ist alles ok. Bis gleich.
+1349791962	Tue Oct 09 2012 16:12:42 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Du hast doch gesagt, dass, wenn ich schon arbeiten gehe, ich auch heute Abend essen gehen könnte. Ich hab jetzt zumindest nicht abgesagt oder soll ich das noch?
+1349792244	Tue Oct 09 2012 16:17:24 GMT+0200 (CEST)	sms	inbox	+4917621520721	self	Gut, dann bis gleich! Ich liebe dich! Bussi
+1349792342	Tue Oct 09 2012 16:19:02 GMT+0200 (CEST)	sms	outbox	self	+49 (176) 21520721	Du bist schon arm dran. Nur verwuselt wirst du vom Achim. Was du machst, musst du selber wissen. Aber richtig ist das nicht, arbeiten zu gehen, wenn man krank ist. Und wenn man nicht krank ist, kann man auch essen gehe.
+1349809447000	Tue Oct 05 44743 14:36:40 GMT+0200 (CEST)	type_gtalk	inbox	25695136@icq.draugr.de	self	TEST<br>MIT<br><br>NEW LINE und TAB!! :)
