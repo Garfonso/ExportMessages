@@ -11,7 +11,7 @@ doExportAssitant.prototype.createHeadingLine = function () {
 doExportAssitant.prototype.convertEntryToLine = function (e) {
   var line = "", i;
   line += (e.timestamp || " ") + "\t";
-  line += (new Date(e.timestamp) || " ") + "\t";
+  line += (new Date(e.timestamp * 1000) || " ") + "\t";
   line += (e.serviceName || " ") + "\t";
   line += (e.folder || " ") + "\t";
   if (e.folder === "inbox") {
