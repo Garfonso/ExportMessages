@@ -27,6 +27,8 @@ you can try that.
 If the service locks up, you'll have close the app and wait a minute or you can try "Reset service" from the app menu.
 
 Versionhistory:
+1.0.3 (2012-10-10)
+- explicitely excluding deleted messages.
 1.0.2 (2012-10-09)
 - new lines and tabulators are now filtered from message text, because they break Excel import.
 1.0.1 (2012-10-08)

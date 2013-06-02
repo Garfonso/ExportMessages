@@ -108,6 +108,7 @@ doExportAssitant.prototype.run = function (outerFuture, subscription) {
     query.from = "com.palm.message:1";
   }
   query.limit = 100;
+  query.incDel = false;
   log("Calling DB.find for the first time.");
   DB.find(query, false, true).then(this, databaseCallback);
   
