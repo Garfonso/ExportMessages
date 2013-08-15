@@ -5,7 +5,7 @@ var log = function (logmsg) {
 };
 
 //global accounts container:
-var config = { filename: "messages.txt", onlySMS: false};
+var config = { filename: "messages.txt", filenameNotes: "notes.txt", currentFilename: "messages.txt", onlySMS: false, notes: false};
 
 try {
   var libraries = MojoLoader.require({name: "foundations", version: "1.0"});
