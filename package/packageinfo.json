@@ -1,8 +1,8 @@
-space{
+{
   "id": "info.mobo.exportmessages",
   "package_format_version": 2,
   "loc_name": "Export Messages",
-  "version": "1.1.0",
+  "version": "1.0.4",
   "icon": "icon48.png",
   "miniicon": "icon48.png",
   "vendor": "Garfonso",

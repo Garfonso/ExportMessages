@@ -1,35 +1,24 @@
 /*global log, logGUI, logStatus, $L, Mojo, AppAssistant, PalmCall, config */
 
 function AppAssistant(appController) {
-	//does not work... which was to be expected and otherwise would have been a severe security issue.. ;)
-	//need to do that manually with: 
-	//luna-send -a com.palm.app.messaging -n 1 palm://com.palm.db/putPermissions '{"permissions": [{"type": "db.kind", "object": "com.palm.message:1", "caller": "info.mobo.exportmessages.service", "operations": {"read":"allow"}}, {"type": "db.kind", "object": "com.palm.message:1", "caller": "info.mobo.exportmessages.service", "operations": {"read": "allow"}}]}'
-	var request = new Mojo.Service.Request("palm://com.palm.db", {
-		method: "putPermissions",
-		parameters: {
-			permissions: [{
-				type: "db.kind",
-				object: "com.palm.message:1",
-				caller: "info.mobo.exportmessages.service",
-				operations: { read: "allow" }
-			}]
-		},
-		onSuccess: function() { Mojo.Log.error("DB permission granted successfully!");},
-		onFailure: function() { Mojo.Log.error("DB failed to grant permissions!");}
-	});
-	var request = new Mojo.Service.Request("palm://com.palm.db", {
-		method: "putPermissions",
-		parameters: {
-			permissions: [{
-				type: "db.kind",
-				object: "com.palm.note:1",
-				caller: "info.mobo.exportmessages.service",
-				operations: { read: "allow" }
-			}]
-		},
-		onSuccess: function() { Mojo.Log.error("DB permission granted successfully!");},
-		onFailure: function() { Mojo.Log.error("DB failed to grant permissions!");}
-	});
+  //does not work... which was to be expected and otherwise would have been a severe security issue.. ;)
+  //need to do that manually with: 
+  //luna-send -a com.palm.app.messaging -n 1 palm://com.palm.db/putPermissions '{"permissions": [{"type": "db.kind", "object": "com.palm.message:1", "caller": "info.mobo.exportmessages.service", "operations": {"read":"allow"}}, {"type": "db.kind", "object": "com.palm.message:1", "caller": "info.mobo.exportmessages.service", "operations": {"read": "allow"}}]}'
+  var request = new Mojo.Service.Request("palm://com.palm.db", 
+  {
+    method: "putPermissions",
+    parameters:
+    {
+      permissions: [{
+        type: "db.kind",
+        object: "com.palm.message:1",
+        caller: "info.mobo.exportmessages.service",
+        operations: { read: "allow" }
+      }]
+    },
+    onSuccess: function() { Mojo.Log.error("DB permission granted successfully!");},
+    onFailure: function() { Mojo.Log.error("DB failed to grant permissions!");}
+  });
 }
 
 function email() {
@@ -47,12 +36,7 @@ function email() {
                        { "fullPath":"/media/internal/" + config.filename,
                           "displayName":config.filename,
                           "mimeType":"text/plain"
-                       },
-						{ "fullPath":"/media/internal/" + config.filenameNotes,
-                          "displayName":config.filenameNotes,
-                          "mimeType":"text/plain"
-                       },
-		]
+                       }]
       }
     }
   });

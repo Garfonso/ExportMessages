@@ -1,8 +1,8 @@
-This app exports all your messages from the messaging app (or better the internal database) to a text file with tabulator seperated fields for: 
+This app exports all your messages from the messaging app (or better the internal database) to a text file with tabulator seperated fields for:
 timestamp, human readable date and time, service (i.e. sms, gtalk,...), inbox/outbox, sender, recepients, message.
 
-This file is saved in the usb partition and can be send as attachement per E-Mail (from the app menu). 
-It should be easy to import that file to Excel. This way one can backup and/or export all the sms and also 
+This file is saved in the usb partition and can be send as attachement per E-Mail (from the app menu).
+It should be easy to import that file to Excel. This way one can backup and/or export all the sms and also
 IM messages from the device and keep them, even if webos goes down or the palm backup  server dies someday.
 
 IMPORTANT
@@ -14,19 +14,24 @@ from a root-terminal on the device. This is to set permissions so the service is
 I will try to find a way to automate this step, but until now, I was not successful. :-(
 
 How-To:
-Just press "Do Export" and wait for the spinner to stop spinning and the message "All went well". 
+Just press "Do Export" and wait for the spinner to stop spinning and the message "All went well".
 If you get a "Permission denied"-Error, please execute the command line from above.
-After that hook up the device to an USB port and copy the created file or use "Mail message" 
+After that hook up the device to an USB port and copy the created file or use "Mail message"
 from the app menu and e-mail the message to yourself.
 
-You can change the filename in the text editfield. But there is no real reason to do so. 
+You can change the filename in the text editfield. But there is no real reason to do so.
 
 If you select "Export only SMS" IM messages are ignored. If you run into trouble with the service lockign up,
 you can try that.
 
+You can tick "Export as XML", which will create an XML file which can be imported on Android devices, see the forum thread or here http://android.riteshsahu.com/apps/sms-backup-restore .
+
 If the service locks up, you'll have close the app and wait a minute or you can try "Reset service" from the app menu.
 
 Versionhistory:
+
+1.0.4 (2014-01-05)
+- added option for XML export for easier import, see here: http://android.riteshsahu.com/apps/sms-backup-restore
 1.0.3 (2012-10-10)
 - explicitely excluding deleted messages.
 1.0.2 (2012-10-09)
