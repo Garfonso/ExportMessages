@@ -55,16 +55,28 @@ doExportAssitant.prototype.convertEntryToLineXML = function (e, index) {
     index = 0;
   }
 
-  if (e.folder === "inbox") {
+  if (e.from && e.from.addr) {
     other = {
       addr: e.from.addr,
       name: "(Unknown)"
     };
+  } else if (e.to && e.to[index]) {
+    other = {
+      addr: e.to[index].addr,
+      name: e.to[index].name || "(Unknown)"
+    };
   } else {
-    if (e.to[index]) {
+    if (index === 0) {
+      console.error("Message had no to or from field!");
+      console.error(JSON.stringify(e));
+      
+      if (e.folder !== "inbox" && e.folder !== "outbox") {
+        console.error("Unknown folder: " + e.folder);
+      }
+      
       other = {
-        addr: e.to[index].addr,
-        name: e.to[index].name || "(Unknown)"
+        addr: "UNKNOWN",
+        name: "(Unknown)"
       };
     } else {
       return "";
@@ -90,7 +102,7 @@ doExportAssitant.prototype.convertEntryToLineXML = function (e, index) {
 doExportAssitant.prototype.run = function (outerFuture, subscription) {
   "use strict";
   log("============== doExportAssitant");
-  var initializeCallback, databaseCallback, finishAssistant, args = this.controller.args, stats = { messages: 0, written: 0, count: 0, fileSize: 0 },
+  var databaseCallback, finishAssistant, args = this.controller.args, stats = { messages: 0, written: 0, count: 0, fileSize: 0 },
       config = args, fileStream, query = {};
   log("args: " + JSON.stringify(args));
   finishAssistant = function (result) {
