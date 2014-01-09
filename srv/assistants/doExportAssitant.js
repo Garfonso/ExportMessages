@@ -85,10 +85,10 @@ doExportAssitant.prototype.convertEntryToLineXML = function (e, index) {
 
   line = "<sms protocol=";
   line += e.serviceName !== "sms" ? "1" : "0";
-  line += " adrress=" + other.addr;
+  line += " address=" + other.addr;
   line += '" date="' + e.localTimestamp;
   line += '" type="' + e.folder === "inbox" ? "1" : "2";
-  line += '" subject="null" body="' + e.messageText + '" toa="null" sc_toa="null" servoce_center="null" read="1" status="-1" ';
+  line += '" subject="null" body="' + e.messageText + '" toa="null" sc_toa="null" service_center="null" read="1" status="-1" ';
   line += 'readable_date="' + new Date(e.localTimestamp) + '" ';
   line += 'contact_name="' + other.name + '" />\n';
 
