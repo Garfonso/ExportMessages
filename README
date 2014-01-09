@@ -30,6 +30,8 @@ If the service locks up, you'll have close the app and wait a minute or you can 
 
 Versionhistory:
 
+1.0.5 (2014-01-09)
+- fixed possible issue with SMS with neither from nor to address during XML export.
 1.0.4 (2014-01-05)
 - added option for XML export for easier import, see here: http://android.riteshsahu.com/apps/sms-backup-restore
 1.0.3 (2012-10-10)
