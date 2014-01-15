@@ -30,6 +30,8 @@ If the service locks up, you'll have close the app and wait a minute or you can 
 
 Versionhistory:
 
+1.0.6 (2014-01-15)
+- fixed issue with address not correctly quoted.
 1.0.5 (2014-01-09)
 - fixed possible issue with SMS with neither from nor to address during XML export.
 - fixed typos in XML file (thanks to martinb for the hints).
