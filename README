@@ -32,6 +32,8 @@ Versionhistory:
 
 1.0.6 (2014-01-15)
 - fixed issue with address not correctly quoted.
+- Circumvented issue with call-stack exceeded.
+- Added quoting of characters not allowed in XML.
 1.0.5 (2014-01-09)
 - fixed possible issue with SMS with neither from nor to address during XML export.
 - fixed typos in XML file (thanks to martinb for the hints).

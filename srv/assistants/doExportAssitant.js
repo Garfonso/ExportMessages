@@ -47,60 +47,78 @@ doExportAssitant.prototype.convertEntryToLine = function (e) {
   return line;
 };
 
-doExportAssitant.prototype.convertEntryToLineXML = function (e, index) {
+function quote(string) {
+  "use strict";
+  if (string === undefined || string === null || typeof string !== "string") {
+    return string;
+  }
+  string = string.replace(/&quot;/gmi, '"'); //quick fix, webos seems to already quote ".
+  string = string.replace(/&/gmi, "&amp;");
+  string = string.replace(/"/gmi, "&quot;");
+  string = string.replace(/'/gmi, "&apos;");
+  string = string.replace(/</gmi, "&lt;");
+  string = string.replace(/>/gmi, "&gt;");
+  return string;
+}
+
+doExportAssitant.prototype.convertOneEntryToLineXML = function (e, other) {
   "use strict";
 
-  var line, other;
-  if (!index) {
-    index = 0;
-  }
+  var line;
+
+  line = '<sms protocol="';
+  line += e.serviceName !== "sms" ? "1" : "0";
+  line += '"';
+  line += ' address="' + quote(other.addr);
+  line += '" date="' + quote(e.localTimestamp);
+  line += '" type="' + (e.folder === "inbox" ? "1" : "2");
+  line += '" subject="null" body="' + quote(e.messageText) + '" toa="null" sc_toa="null" service_center="null" read="1" status="-1" ';
+  line += 'readable_date="' + new Date(e.localTimestamp) + '" ';
+  line += 'contact_name="' + quote(other.name) + '" />\n';
+
+  return line;
+};
+
+doExportAssitant.prototype.convertEntryToLineXML = function (e) {
+  "use strict";
+
+  var line = "", others = [], i;
 
   if (e.from && e.from.addr) {
-    other = {
+    others.push({
       addr: e.from.addr,
       name: "(Unknown)"
-    };
-  } else if (e.to && e.to[index]) {
-    other = {
-      addr: e.to[index].addr,
-      name: e.to[index].name || "(Unknown)"
-    };
-  } else {
-    if (index === 0) {
-      console.error("Message had no to or from field!");
-      console.error(JSON.stringify(e));
-
-      if (e.folder !== "inbox" && e.folder !== "outbox") {
-        console.error("Unknown folder: " + e.folder);
-      }
-
-      other = {
-        addr: "UNKNOWN",
-        name: "(Unknown)"
-      };
-    } else {
-      return "";
+    });
+  } else if (e.to && e.to.length > 0) {
+    for (i = 0; i < e.to.length; i += 1) {
+      others.push({
+        addr: e.to[i].addr,
+        name: e.to[i].name || "(Unknown)"
+      });
     }
+  } else {
+    console.error("Message had no to or from field!");
+    console.error(JSON.stringify(e));
+
+    if (e.folder !== "inbox" && e.folder !== "outbox") {
+      console.error("Unknown folder: " + e.folder);
+    }
+
+    others.push({
+      addr: "UNKNOWN",
+      name: "(Unknown)"
+    });
   }
 
   if (!e.messageText) {
     e.messageText = "";
   }
 
-  line = "<sms protocol=";
-  line += e.serviceName !== "sms" ? "1" : "0";
-  line += ' address="' + other.addr;
-  line += '" date="' + e.localTimestamp;
-  line += '" type="' + (e.folder === "inbox" ? "1" : "2");
-  line += '" subject="null" body="' + e.messageText + '" toa="null" sc_toa="null" service_center="null" read="1" status="-1" ';
-  line += 'readable_date="' + new Date(e.localTimestamp) + '" ';
-  line += 'contact_name="' + other.name + '" />\n';
-
-  if (e.folder === "inbox") {
-    return line;
-  } else {
-    return line + this.convertEntryToLineXML(e, index + 1);
+  for (i = 0; i < others.length; i += 1) {
+    line += this.convertOneEntryToLineXML(e, others[i]);
   }
+
+  return line;
 };
 
 doExportAssitant.prototype.run = function (outerFuture, subscription) {
